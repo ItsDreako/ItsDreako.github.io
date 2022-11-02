@@ -178,7 +178,7 @@ body {
 }
 
 .title h1 {
-    font-size: 7rem;
+    font-size: 5rem;
     font-weight: 800;
     text-align: center;
     background: var(--hot-gradient-color);
